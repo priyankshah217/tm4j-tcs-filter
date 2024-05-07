@@ -1,4 +1,4 @@
-module tm4j-tcs-filter
+module github.com/priyankshah217/tm4j-tcs-filtertm4j-tcs-filter
 
 go 1.22
 

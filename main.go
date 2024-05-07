@@ -3,7 +3,7 @@ Copyright © 2024 NAME HERE <EMAIL ADDRESS>
 */
 package main
 
-import "tm4j-tcs-filter/cmd"
+import "github.com/priyankshah217/tm4j-tcs-filter/cmd"
 
 func main() {
 	cmd.Execute()

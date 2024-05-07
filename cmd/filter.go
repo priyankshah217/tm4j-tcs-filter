@@ -3,9 +3,10 @@ package cmd
 import (
 	"encoding/csv"
 	"fmt"
-	"github.com/spf13/cobra"
 	"os"
 	"strings"
+
+	"github.com/spf13/cobra"
 )
 
 var labels []string
